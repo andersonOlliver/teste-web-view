@@ -1,0 +1,15 @@
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\TesteWebView.dll
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\TesteWebView.pdb
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\obj\Debug\TesteWebView.csprojResolveAssemblyReference.cache
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\obj\Debug\TesteWebView.MainPage.xaml.g.cs
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\obj\Debug\TesteWebView.App.xaml.g.cs
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\obj\Debug\TesteWebView.dll
+c:\users\olliver\documents\visual studio 2017\Projects\TesteWebView\TesteWebView\TesteWebView\obj\Debug\TesteWebView.pdb
